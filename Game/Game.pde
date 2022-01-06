@@ -1,7 +1,4 @@
 //Christian Lee
-//Mason Lopez
-//Mathew Yee
-//AP Computer Science Principles
 //Game
 
 import ddf.minim.*;
